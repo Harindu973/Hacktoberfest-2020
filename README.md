@@ -1,3 +1,3 @@
-# Hacktoberfest-2020
-Hello hacktoberfest,.
-#hacktoberfest-20
+Name: Kavindu Prabath
+institution: NSBM Green University
+github: (https://github.com/itepifanioKavprabath)
