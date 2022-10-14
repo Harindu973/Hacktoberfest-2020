@@ -1,0 +1,5 @@
+
+function popAlert() {
+    var myName = " Mango";
+    alert (myName);
+}
